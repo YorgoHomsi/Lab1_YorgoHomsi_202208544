@@ -1,0 +1,12 @@
+1) Public must be lower case public
+2) Problem must be the same as file name 
+3)main must be capital case Main
+4)Wed dont use comma
+5)finish the line semicolon
+6)Brackets must be next to String
+7)system must be capital System
+8)Parameters must be quoted "Hello, there are a lot"
+9)Change the comma to semicolon
+10)Out must be lower cas in System.Out.prints 
+11)prints without "s" print
+12)Parameter "of problems" must be quoted
